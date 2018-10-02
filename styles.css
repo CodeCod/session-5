@@ -5,9 +5,25 @@ body {
 #fixed-block {
 }
 
+#mybox {
+	width: 150px;
+	position: fixed;
+	top: 30px;
+	left: 1285px;
+	border-width: 2px;
+	border-color: red;
+}
+
 .robert {
 color: #FF8000;
 }
 
 #header-level-3 {
+}
+
+.marge {
+	padding: 15px;
+	background: red;
+	margin-top: 10px;
+  margin-bottom: 10px;
 }
